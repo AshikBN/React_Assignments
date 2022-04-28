@@ -1,0 +1,73 @@
+.site-container{
+    margin: 10px;
+}
+header.header {
+    display: flex;
+    justify-content: space-between;
+    border-style: ridge;
+    background-color: #f7f8fa;
+}
+.arrow {
+    padding-top: 17px;
+    color: grey;
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+
+
+
+
+.arrow {
+    padding-top: 17px;
+    color: grey;
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 50px;
+}
+p.name {margin: 10px;font-weight: 700;font-size: 18px;}
+
+p.id {margin: 10px;text-align: center;color: grey;font-size: 17px;}
+
+.employeeDetails {text-align: center;}
+
+button.printBtn {margin-top: 20px;height: 40px;width: 55px;background: black;color: white;border: none;cursor: pointer;}
+
+.button {margin-right: 50px;/* cursor: pointer; */}
+
+.customerInfo{
+    border-style: ridge;
+    margin-top: 30px;
+    border-radius: 5px;
+    margin: 30px 20px 0px 20px;
+}
+
+.appointment{
+    display: inline-block;
+    font-weight: bolder;
+    margin-right: 5px;
+}
+.email{
+     display: inline-block;
+     font-weight: bolder;
+     margin-right: 5px;
+} 
+
+.phone{
+    display: inline-block; 
+    font-weight: bolder;
+    margin-right: 5px;
+}
+ 
+
+.customerInfo div {
+    height: 45px;
+    margin-left: 50px;
+    
+}
+
+.customerInfo div span{
+    color: grey;
+    font-weight: 400;
+}
