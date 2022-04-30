@@ -1,13 +1,12 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
-
-var arrow="<"
-function App() {
+var arrow = "<";
+function App({ employee }) {
   return (
     <div className="site-container">
-    {/* Start Your code here */}
+      <div>hi</div>
     </div>
   );
 }

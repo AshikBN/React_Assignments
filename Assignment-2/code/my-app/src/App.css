@@ -36,3 +36,49 @@
     transform: rotate(360deg);
   }
 }
+img.profileImg {
+  height: 150px;
+  width: 150px;
+  border-radius: 10px;
+}
+
+.profile{
+  padding-left: 450px;
+}
+
+h1.profileName {
+  font-weight: 700;
+  color: deepskyblue;
+  padding-top: 12px;
+}
+p.profileLocation {
+  font-weight: 600;
+}
+
+.location{
+  display: inline-block;
+  color: gray;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.bloodGroup{
+  display: inline-block;
+  color: gray;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+p.profileBloodGroup {
+  font-weight: 600;
+}
+
+p.profileAge{
+  font-weight: 600;
+}
+.age{
+  display: inline-block;
+  color: gray;
+  font-size: 15px;
+  font-weight: 500;
+}
