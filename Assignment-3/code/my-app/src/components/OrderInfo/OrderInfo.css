@@ -1,0 +1,28 @@
+.OrderInfo{
+    background-color: #e1e5ed;
+    display: flex;
+    justify-content:space-between;
+    margin-top: 30px;
+    border-radius: 5px;
+    margin:30px 20px 0px 20px
+}
+.status{
+    margin-left: 50px;
+
+}
+.time{
+margin-right: 50px;
+}
+
+.OrderInfo div :first-child{
+    font-weight: bolder;
+}
+
+.OrderInfo div :nth-child(2){
+    color: #5f646e;
+    font-weight: 500;
+}
+
+.OrderInfo div{
+    text-align: center;
+}
